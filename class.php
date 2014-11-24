@@ -1,10 +1,8 @@
 <?php
 if(!class_exists('joomba')){
 	class Joomba(
-
 			function register($redirect){
 				global $jdb;
-
 				$current='http://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
 
 				$referrer =$_SERVER['HTTP_REFERE'];
