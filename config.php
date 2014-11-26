@@ -2,6 +2,7 @@
 define('DB_NAME','spr');
 define('DB_USER','loginuser');
 define('DB_PASS','ets062109**');
+
 define('SITE_KEY','wUOZbjDLysFEd5doqNtd
 ynxiLVpzacMR79YDfwnV
 vulnwcaUqZ7rvthJ59Tq
@@ -12,6 +13,8 @@ dFTkKjQ52qYgBUPoMcAh
 97is6Hd50p9UiwJwnull
 alkKEH2eS9oBhR13vPNJ
 z1QSeN3EsKKVugtoNPvI');
+
+
 define('NONCE_SALT','ktxUWfBacjLbK6RiNN8r
 V55jKMfAgE7Iwp5fgbOu
 ARLFCbcjIcOcF5GFREyw
