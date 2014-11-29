@@ -1,5 +1,6 @@
 <?php
 define('DB_NAME','spr');
+
 define('DB_USER','loginuser');
 define('DB_PASS','ets062109**');
 
